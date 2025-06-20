@@ -105,6 +105,9 @@ button {
 .fa-crown {
     position: relative;
     padding: 20px;
+    text-decoration: none;
+    color: #000;
+
 }
    
 button span {
@@ -382,3 +385,8 @@ footer .div3 p:last-child {
 }
 
 
+
+
+.login-register {
+    text-decoration: none;
+}
